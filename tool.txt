@@ -1,0 +1,5 @@
+git
+maven
+docker
+k8s
+aws
